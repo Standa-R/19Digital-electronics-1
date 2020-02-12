@@ -4,5 +4,4 @@ aa
 
 bb
 
-
-![and_gate](and.png)
+<p align= "center"><img src="and.png" /></p>
